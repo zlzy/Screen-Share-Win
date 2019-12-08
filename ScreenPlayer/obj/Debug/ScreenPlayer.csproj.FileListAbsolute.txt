@@ -1,0 +1,31 @@
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\ScreenPlayer\bin\Debug\ScreenPlayer.exe.config
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\ScreenPlayer\bin\Debug\ScreenPlayer.exe
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\ScreenPlayer\bin\Debug\ScreenPlayer.pdb
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\ScreenPlayer\bin\Debug\JSSocket.dll
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\ScreenPlayer\bin\Debug\JSSocket.pdb
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\ScreenPlayer\obj\Debug\ScreenPlayer.csprojResolveAssemblyReference.cache
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\ScreenPlayer\obj\Debug\ScreenPlayer.Form1.resources
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\ScreenPlayer\obj\Debug\ScreenPlayer.Properties.Resources.resources
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\ScreenPlayer\obj\Debug\ScreenPlayer.csproj.GenerateResource.Cache
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\ScreenPlayer\obj\Debug\ScreenPlayer.exe
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\ScreenPlayer\obj\Debug\ScreenPlayer.pdb
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenPlayer\bin\Debug\ScreenPlayer.exe.config
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenPlayer\bin\Debug\ScreenPlayer.exe
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenPlayer\bin\Debug\ScreenPlayer.pdb
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenPlayer\bin\Debug\JSSocket.dll
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenPlayer\bin\Debug\JSSocket.pdb
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.csprojResolveAssemblyReference.cache
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.Form1.resources
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.Properties.Resources.resources
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.csproj.GenerateResource.Cache
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.exe
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.pdb
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenPlayer\bin\Debug\ScreenPlayer.exe.config
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenPlayer\bin\Debug\ScreenPlayer.exe
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenPlayer\bin\Debug\ScreenPlayer.pdb
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.csprojResolveAssemblyReference.cache
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.Form1.resources
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.Properties.Resources.resources
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.csproj.GenerateResource.Cache
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.exe
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenPlayer\obj\Debug\ScreenPlayer.pdb
