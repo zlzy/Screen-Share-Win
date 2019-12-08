@@ -1,0 +1,4 @@
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\JSSocket\bin\Debug\JSSocket.dll
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\JSSocket\bin\Debug\JSSocket.pdb
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\JSSocket\obj\Debug\JSSocket.dll
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenPlayer\JSSocket\obj\Debug\JSSocket.pdb
