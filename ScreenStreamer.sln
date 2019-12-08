@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenStreamer", "ScreenStreamer\ScreenStreamer.csproj", "{63D60FD2-5861-4E38-BE91-7F911B979A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSSocket", "JSSocket\JSSocket.csproj", "{25F6A32B-227E-42EA-A691-3388E0903547}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScreenPlayer", "ScreenPlayer\ScreenPlayer.csproj", "{B2ECE6D1-BBE8-4FE0-848C-85255BFE3355}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63D60FD2-5861-4E38-BE91-7F911B979A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63D60FD2-5861-4E38-BE91-7F911B979A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63D60FD2-5861-4E38-BE91-7F911B979A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63D60FD2-5861-4E38-BE91-7F911B979A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F6A32B-227E-42EA-A691-3388E0903547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F6A32B-227E-42EA-A691-3388E0903547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F6A32B-227E-42EA-A691-3388E0903547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F6A32B-227E-42EA-A691-3388E0903547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2ECE6D1-BBE8-4FE0-848C-85255BFE3355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2ECE6D1-BBE8-4FE0-848C-85255BFE3355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2ECE6D1-BBE8-4FE0-848C-85255BFE3355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2ECE6D1-BBE8-4FE0-848C-85255BFE3355}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

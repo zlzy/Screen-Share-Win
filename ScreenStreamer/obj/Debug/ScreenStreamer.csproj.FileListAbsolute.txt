@@ -1,0 +1,22 @@
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenStreamer\ScreenStreamer\bin\Debug\ScreenStreamer.exe.config
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenStreamer\ScreenStreamer\bin\Debug\ScreenStreamer.exe
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenStreamer\ScreenStreamer\bin\Debug\ScreenStreamer.pdb
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.csprojResolveAssemblyReference.cache
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.Form1.resources
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.Properties.Resources.resources
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.csproj.GenerateResource.Cache
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.exe
+c:\users\skyzero\documents\visual studio 2017\Projects\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.pdb
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenStreamer\bin\Debug\JSSocket.dll
+C:\Users\SkyZero\Documents\Visual Studio 2017\Projects\ScreenStreamer\ScreenStreamer\bin\Debug\JSSocket.pdb
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenStreamer\bin\Debug\ScreenStreamer.exe.config
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenStreamer\bin\Debug\ScreenStreamer.exe
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenStreamer\bin\Debug\ScreenStreamer.pdb
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenStreamer\bin\Debug\JSSocket.dll
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenStreamer\bin\Debug\JSSocket.pdb
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.csprojResolveAssemblyReference.cache
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.Form1.resources
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.Properties.Resources.resources
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.csproj.GenerateResource.Cache
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.exe
+D:\Work\Window\Upwork_JinGuo\ScreenStreamer\ScreenStreamer\obj\Debug\ScreenStreamer.pdb
